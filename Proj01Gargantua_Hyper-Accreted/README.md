@@ -23,6 +23,7 @@ Moving from CPU loops to GPU Kernels changed everything. This version removes th
 
 ### 🎥 Demo: The Event Horizon
 [![Gargantua Demo](https://img.youtube.com/vi/GLwow-UDREM/maxresdefault.jpg)](https://youtu.be/GLwow-UDREM)
+*click here*👆
 
 ## ✨ Features
 
@@ -379,6 +380,7 @@ This project is open source. Feel free to use, modify, and distribute as needed.
 *"We are not meant to save the world. We are meant to leave it."* - Cooper, Interstellar
 
 **Experience the majesty of a black hole with intelligent display adaptation ~ now in its UNLEASHED form** 🚀✨💥
+
 
 
 
