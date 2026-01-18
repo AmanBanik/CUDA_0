@@ -28,7 +28,7 @@ A 4K-capable, CUDA-accelerated simulation of a Schwarzschild black hole. It leve
 * **Performance:** ~145 FPS @ 1920x1200 (RTX 50-Series)
 * **Key Feature:** Moving from O(n) CPU loops to O(1) parallel GPU execution.
 
-[📂 **Explore the Code**](./Proj01Gargantua_Hyper-Accreted) *(Link to your folder)*
+[📂 **Explore the Code**](./Proj01Gargantua_Hyper-Accreted)
 
 ---
 
