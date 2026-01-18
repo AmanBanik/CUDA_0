@@ -329,7 +329,7 @@ checkout [here](session_log.json)
 | **2560 x 1600** | 16:10 | 240 Hz | **~105 FPS** |
 | **3840 x 2160** | 4K | 60 Hz | **60 FPS (Locked)** |
 
-*> "At 4K resolution, the simulation remains cinematic and stable, proving the efficiency of the CUDA kernels even at extreme pixel densities." - Benchmark Log 2026-01-18*
+> "At 4K resolution, the simulation remains cinematic and stable, proving the efficiency of the CUDA kernels even at extreme pixel densities." - Benchmark Log 2026-01-18
 > "The code detected current refresh rate 165hz... the color of the particles seemed like got a bit dull... as the motion got much smoother... the period for character repetition got minimised... I fixed it by boosting the Value in HSV."  Also I have hidden a lot of stray warnings... those were never critical though - Developer Notes
 
 ## 🎨 Visual Breakdown
@@ -391,6 +391,7 @@ This project is open source. Feel free to use, modify, and distribute as needed.
 *"We are not meant to save the world. We are meant to leave it."* - Cooper, Interstellar
 
 **Experience the majesty of a black hole with intelligent display adaptation ~ now in its UNLEASHED form** 🚀✨💥
+
 
 
 
