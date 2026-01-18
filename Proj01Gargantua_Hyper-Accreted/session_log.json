@@ -1,0 +1,1892 @@
+[
+    {
+        "timestamp": "2026-01-16T16:48:12.759330",
+        "target_fps": 165,
+        "actual_fps": 147.06,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:48:16.762340",
+        "target_fps": 165,
+        "actual_fps": 149.25,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:48:20.767507",
+        "target_fps": 165,
+        "actual_fps": 144.93,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:48:24.772083",
+        "target_fps": 165,
+        "actual_fps": 151.52,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:48:28.773555",
+        "target_fps": 165,
+        "actual_fps": 158.73,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:48:32.774205",
+        "target_fps": 165,
+        "actual_fps": 156.25,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:48:36.780706",
+        "target_fps": 165,
+        "actual_fps": 156.25,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:48:40.783349",
+        "target_fps": 165,
+        "actual_fps": 142.86,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:48:44.786557",
+        "target_fps": 165,
+        "actual_fps": 151.52,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:48:48.789824",
+        "target_fps": 165,
+        "actual_fps": 151.52,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:48:52.793396",
+        "target_fps": 165,
+        "actual_fps": 135.14,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:48:56.797608",
+        "target_fps": 165,
+        "actual_fps": 153.85,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:49:00.799277",
+        "target_fps": 165,
+        "actual_fps": 151.52,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:49:04.799467",
+        "target_fps": 165,
+        "actual_fps": 147.06,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:49:08.803483",
+        "target_fps": 165,
+        "actual_fps": 142.86,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:49:12.808530",
+        "target_fps": 165,
+        "actual_fps": 151.52,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:49:16.812890",
+        "target_fps": 165,
+        "actual_fps": 138.89,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:49:20.814199",
+        "target_fps": 165,
+        "actual_fps": 144.93,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:49:24.819931",
+        "target_fps": 165,
+        "actual_fps": 153.85,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:49:28.825305",
+        "target_fps": 165,
+        "actual_fps": 156.25,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:49:32.830024",
+        "target_fps": 165,
+        "actual_fps": 147.06,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:49:36.835118",
+        "target_fps": 165,
+        "actual_fps": 142.86,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:49:40.839885",
+        "target_fps": 165,
+        "actual_fps": 149.25,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:49:44.844225",
+        "target_fps": 165,
+        "actual_fps": 135.14,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:49:48.845530",
+        "target_fps": 165,
+        "actual_fps": 129.87,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:49:52.851517",
+        "target_fps": 165,
+        "actual_fps": 138.89,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:49:56.853478",
+        "target_fps": 165,
+        "actual_fps": 138.89,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:50:00.860734",
+        "target_fps": 165,
+        "actual_fps": 151.52,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:50:04.866415",
+        "target_fps": 165,
+        "actual_fps": 129.87,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:50:08.867861",
+        "target_fps": 165,
+        "actual_fps": 144.93,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:50:12.873828",
+        "target_fps": 165,
+        "actual_fps": 161.29,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-16T16:50:16.878390",
+        "target_fps": 165,
+        "actual_fps": 147.06,
+        "resolution": "1920x1200",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:21:24.382377",
+        "target_fps": 165,
+        "actual_fps": 158.73,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:21:28.382905",
+        "target_fps": 165,
+        "actual_fps": 158.73,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:21:32.385126",
+        "target_fps": 165,
+        "actual_fps": 158.73,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:21:36.391287",
+        "target_fps": 165,
+        "actual_fps": 149.25,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:21:40.397088",
+        "target_fps": 165,
+        "actual_fps": 156.25,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:21:44.398714",
+        "target_fps": 165,
+        "actual_fps": 161.29,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:21:48.399212",
+        "target_fps": 165,
+        "actual_fps": 158.73,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:21:52.404095",
+        "target_fps": 165,
+        "actual_fps": 147.06,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:21:56.404671",
+        "target_fps": 165,
+        "actual_fps": 149.25,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:22:00.405211",
+        "target_fps": 165,
+        "actual_fps": 144.93,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:22:04.409586",
+        "target_fps": 165,
+        "actual_fps": 151.52,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:22:08.534677",
+        "target_fps": 165,
+        "actual_fps": 149.25,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:22:12.537521",
+        "target_fps": 165,
+        "actual_fps": 149.25,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:22:16.543506",
+        "target_fps": 165,
+        "actual_fps": 151.52,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:22:20.550051",
+        "target_fps": 165,
+        "actual_fps": 151.52,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:23:36.980921",
+        "target_fps": 240,
+        "actual_fps": 238.1,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:23:40.984434",
+        "target_fps": 240,
+        "actual_fps": 227.27,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:23:44.985596",
+        "target_fps": 240,
+        "actual_fps": 204.08,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:23:48.988569",
+        "target_fps": 240,
+        "actual_fps": 200.0,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:23:52.990290",
+        "target_fps": 240,
+        "actual_fps": 175.44,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:23:56.993038",
+        "target_fps": 240,
+        "actual_fps": 200.0,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:24:00.993193",
+        "target_fps": 240,
+        "actual_fps": 149.25,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:24:04.993782",
+        "target_fps": 240,
+        "actual_fps": 217.39,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:24:08.996530",
+        "target_fps": 240,
+        "actual_fps": 222.22,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:24:12.998646",
+        "target_fps": 240,
+        "actual_fps": 232.56,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:24:16.998695",
+        "target_fps": 240,
+        "actual_fps": 227.27,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:24:21.003132",
+        "target_fps": 240,
+        "actual_fps": 222.22,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:24:25.003463",
+        "target_fps": 240,
+        "actual_fps": 217.39,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:24:29.008828",
+        "target_fps": 240,
+        "actual_fps": 161.29,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:24:33.014645",
+        "target_fps": 240,
+        "actual_fps": 163.93,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:24:37.017401",
+        "target_fps": 240,
+        "actual_fps": 172.41,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:24:41.020813",
+        "target_fps": 240,
+        "actual_fps": 212.77,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:24:45.022555",
+        "target_fps": 240,
+        "actual_fps": 227.27,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:24:49.024161",
+        "target_fps": 240,
+        "actual_fps": 196.08,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:24:53.026150",
+        "target_fps": 240,
+        "actual_fps": 232.56,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:24:57.026476",
+        "target_fps": 240,
+        "actual_fps": 232.56,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:25:01.029047",
+        "target_fps": 240,
+        "actual_fps": 208.33,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:25:05.030648",
+        "target_fps": 240,
+        "actual_fps": 232.56,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:25:09.034485",
+        "target_fps": 240,
+        "actual_fps": 222.22,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:25:13.038598",
+        "target_fps": 240,
+        "actual_fps": 222.22,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:25:17.039039",
+        "target_fps": 240,
+        "actual_fps": 217.39,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:25:21.041372",
+        "target_fps": 240,
+        "actual_fps": 232.56,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:25:25.043036",
+        "target_fps": 240,
+        "actual_fps": 238.1,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:25:29.046904",
+        "target_fps": 240,
+        "actual_fps": 232.56,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:25:33.047415",
+        "target_fps": 240,
+        "actual_fps": 222.22,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:25:37.051459",
+        "target_fps": 240,
+        "actual_fps": 217.39,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:25:41.053543",
+        "target_fps": 240,
+        "actual_fps": 212.77,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:25:45.056867",
+        "target_fps": 240,
+        "actual_fps": 212.77,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:25:49.058899",
+        "target_fps": 240,
+        "actual_fps": 227.27,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:25:53.059776",
+        "target_fps": 240,
+        "actual_fps": 227.27,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:25:57.063830",
+        "target_fps": 240,
+        "actual_fps": 250.0,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:26:01.067674",
+        "target_fps": 240,
+        "actual_fps": 208.33,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:26:05.071043",
+        "target_fps": 240,
+        "actual_fps": 227.27,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:26:09.071957",
+        "target_fps": 240,
+        "actual_fps": 208.33,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:26:13.072872",
+        "target_fps": 240,
+        "actual_fps": 222.22,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:26:17.074168",
+        "target_fps": 240,
+        "actual_fps": 217.39,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:26:21.075217",
+        "target_fps": 240,
+        "actual_fps": 212.77,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:26:25.077435",
+        "target_fps": 240,
+        "actual_fps": 232.56,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:26:29.082608",
+        "target_fps": 240,
+        "actual_fps": 212.77,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:26:33.083433",
+        "target_fps": 240,
+        "actual_fps": 250.0,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:26:37.088063",
+        "target_fps": 240,
+        "actual_fps": 217.39,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:26:41.089434",
+        "target_fps": 240,
+        "actual_fps": 227.27,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:26:45.092585",
+        "target_fps": 240,
+        "actual_fps": 208.33,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:26:49.095984",
+        "target_fps": 240,
+        "actual_fps": 222.22,
+        "resolution": "1280x720",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:45:15.113198",
+        "target_fps": 30,
+        "actual_fps": 29.59,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:45:19.140462",
+        "target_fps": 30,
+        "actual_fps": 29.59,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:45:23.146340",
+        "target_fps": 30,
+        "actual_fps": 29.94,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:45:27.173167",
+        "target_fps": 30,
+        "actual_fps": 29.76,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:45:31.196854",
+        "target_fps": 30,
+        "actual_fps": 29.94,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:45:35.218080",
+        "target_fps": 30,
+        "actual_fps": 29.85,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:45:39.241977",
+        "target_fps": 30,
+        "actual_fps": 30.03,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:45:43.268053",
+        "target_fps": 30,
+        "actual_fps": 29.67,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:45:47.287730",
+        "target_fps": 30,
+        "actual_fps": 29.76,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:45:51.305960",
+        "target_fps": 30,
+        "actual_fps": 29.67,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:45:55.325018",
+        "target_fps": 30,
+        "actual_fps": 29.94,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:45:59.325535",
+        "target_fps": 30,
+        "actual_fps": 29.94,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:46:03.326074",
+        "target_fps": 30,
+        "actual_fps": 29.85,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:46:07.326598",
+        "target_fps": 30,
+        "actual_fps": 29.76,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:46:11.351536",
+        "target_fps": 30,
+        "actual_fps": 29.85,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:46:15.368836",
+        "target_fps": 30,
+        "actual_fps": 29.76,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:46:19.372699",
+        "target_fps": 30,
+        "actual_fps": 29.67,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:46:23.393318",
+        "target_fps": 30,
+        "actual_fps": 29.94,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:46:27.408304",
+        "target_fps": 30,
+        "actual_fps": 30.12,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:46:31.430515",
+        "target_fps": 30,
+        "actual_fps": 30.03,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:46:35.461963",
+        "target_fps": 30,
+        "actual_fps": 30.21,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:46:39.474675",
+        "target_fps": 30,
+        "actual_fps": 29.85,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:47:35.219270",
+        "target_fps": 90,
+        "actual_fps": 88.5,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:47:39.220306",
+        "target_fps": 90,
+        "actual_fps": 89.29,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:47:43.227861",
+        "target_fps": 90,
+        "actual_fps": 88.5,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:47:47.230365",
+        "target_fps": 90,
+        "actual_fps": 89.29,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:47:51.232283",
+        "target_fps": 90,
+        "actual_fps": 84.75,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:47:55.233525",
+        "target_fps": 90,
+        "actual_fps": 85.47,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:47:59.240188",
+        "target_fps": 90,
+        "actual_fps": 87.72,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:48:03.247084",
+        "target_fps": 90,
+        "actual_fps": 88.5,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:48:07.251557",
+        "target_fps": 90,
+        "actual_fps": 87.72,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:48:11.260073",
+        "target_fps": 90,
+        "actual_fps": 86.96,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:48:15.260917",
+        "target_fps": 90,
+        "actual_fps": 87.72,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:48:19.269881",
+        "target_fps": 90,
+        "actual_fps": 90.91,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:48:23.280369",
+        "target_fps": 90,
+        "actual_fps": 86.96,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:48:27.286981",
+        "target_fps": 90,
+        "actual_fps": 88.5,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:48:31.297226",
+        "target_fps": 90,
+        "actual_fps": 89.29,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:48:35.302986",
+        "target_fps": 90,
+        "actual_fps": 87.72,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:48:39.311021",
+        "target_fps": 90,
+        "actual_fps": 86.21,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:48:43.321466",
+        "target_fps": 90,
+        "actual_fps": 89.29,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:49:18.438290",
+        "target_fps": 240,
+        "actual_fps": 116.28,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:49:22.443459",
+        "target_fps": 240,
+        "actual_fps": 120.48,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:49:26.450252",
+        "target_fps": 240,
+        "actual_fps": 105.26,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:49:30.458502",
+        "target_fps": 240,
+        "actual_fps": 111.11,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:49:34.468380",
+        "target_fps": 240,
+        "actual_fps": 104.17,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:49:38.473616",
+        "target_fps": 240,
+        "actual_fps": 89.29,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:49:42.477423",
+        "target_fps": 240,
+        "actual_fps": 102.04,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:49:46.485792",
+        "target_fps": 240,
+        "actual_fps": 112.36,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:49:50.490965",
+        "target_fps": 240,
+        "actual_fps": 106.38,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:49:54.494432",
+        "target_fps": 240,
+        "actual_fps": 107.53,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:49:58.494729",
+        "target_fps": 240,
+        "actual_fps": 101.01,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:50:02.499055",
+        "target_fps": 240,
+        "actual_fps": 111.11,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:50:06.506276",
+        "target_fps": 240,
+        "actual_fps": 101.01,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:50:10.510532",
+        "target_fps": 240,
+        "actual_fps": 99.01,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:50:14.514804",
+        "target_fps": 240,
+        "actual_fps": 108.7,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:50:18.518434",
+        "target_fps": 240,
+        "actual_fps": 105.26,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:50:22.527543",
+        "target_fps": 240,
+        "actual_fps": 100.0,
+        "resolution": "2560x1600",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:50:57.131962",
+        "target_fps": 30,
+        "actual_fps": 28.17,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:51:01.144456",
+        "target_fps": 30,
+        "actual_fps": 29.94,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:51:05.159295",
+        "target_fps": 30,
+        "actual_fps": 29.94,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:51:09.173737",
+        "target_fps": 30,
+        "actual_fps": 29.94,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:51:13.185515",
+        "target_fps": 30,
+        "actual_fps": 29.5,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:51:17.195302",
+        "target_fps": 30,
+        "actual_fps": 30.03,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:51:21.206710",
+        "target_fps": 30,
+        "actual_fps": 29.85,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:51:25.222756",
+        "target_fps": 30,
+        "actual_fps": 29.85,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:51:29.228735",
+        "target_fps": 30,
+        "actual_fps": 29.76,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:51:33.239424",
+        "target_fps": 30,
+        "actual_fps": 29.76,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:51:37.254006",
+        "target_fps": 30,
+        "actual_fps": 30.03,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:51:41.270025",
+        "target_fps": 30,
+        "actual_fps": 29.76,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:51:45.274948",
+        "target_fps": 30,
+        "actual_fps": 30.12,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:51:49.302245",
+        "target_fps": 30,
+        "actual_fps": 30.03,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:51:53.334821",
+        "target_fps": 30,
+        "actual_fps": 29.59,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:51:57.346661",
+        "target_fps": 30,
+        "actual_fps": 29.94,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:52:01.351777",
+        "target_fps": 30,
+        "actual_fps": 29.85,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:52:05.357077",
+        "target_fps": 30,
+        "actual_fps": 30.03,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:52:09.388198",
+        "target_fps": 30,
+        "actual_fps": 30.03,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:52:13.393166",
+        "target_fps": 30,
+        "actual_fps": 29.94,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:52:17.396674",
+        "target_fps": 30,
+        "actual_fps": 29.76,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:52:21.410482",
+        "target_fps": 30,
+        "actual_fps": 29.94,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:52:25.432834",
+        "target_fps": 30,
+        "actual_fps": 30.21,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:52:29.440527",
+        "target_fps": 30,
+        "actual_fps": 29.94,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:52:33.441804",
+        "target_fps": 30,
+        "actual_fps": 29.94,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:52:37.466204",
+        "target_fps": 30,
+        "actual_fps": 30.03,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:52:41.478627",
+        "target_fps": 30,
+        "actual_fps": 29.67,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:52:45.490429",
+        "target_fps": 30,
+        "actual_fps": 29.76,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:53:16.586163",
+        "target_fps": 60,
+        "actual_fps": 61.73,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:53:20.588495",
+        "target_fps": 60,
+        "actual_fps": 61.35,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:53:24.591850",
+        "target_fps": 60,
+        "actual_fps": 61.35,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:53:28.599216",
+        "target_fps": 60,
+        "actual_fps": 60.98,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:53:32.600585",
+        "target_fps": 60,
+        "actual_fps": 60.24,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:53:36.610837",
+        "target_fps": 60,
+        "actual_fps": 60.24,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:53:40.623711",
+        "target_fps": 60,
+        "actual_fps": 61.35,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:53:44.631558",
+        "target_fps": 60,
+        "actual_fps": 57.47,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:53:48.634766",
+        "target_fps": 60,
+        "actual_fps": 59.88,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:53:52.649223",
+        "target_fps": 60,
+        "actual_fps": 60.98,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:53:56.659309",
+        "target_fps": 60,
+        "actual_fps": 59.17,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:54:00.696196",
+        "target_fps": 60,
+        "actual_fps": 61.73,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:54:04.711344",
+        "target_fps": 60,
+        "actual_fps": 56.18,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:54:43.004581",
+        "target_fps": 90,
+        "actual_fps": 80.65,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:54:47.009141",
+        "target_fps": 90,
+        "actual_fps": 87.72,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:54:51.016042",
+        "target_fps": 90,
+        "actual_fps": 71.94,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:54:55.018522",
+        "target_fps": 90,
+        "actual_fps": 75.19,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:54:59.030063",
+        "target_fps": 90,
+        "actual_fps": 81.3,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:55:03.035366",
+        "target_fps": 90,
+        "actual_fps": 74.63,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:55:07.044588",
+        "target_fps": 90,
+        "actual_fps": 72.46,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:55:11.052114",
+        "target_fps": 90,
+        "actual_fps": 76.34,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:55:15.053644",
+        "target_fps": 90,
+        "actual_fps": 75.19,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:55:19.060899",
+        "target_fps": 90,
+        "actual_fps": 54.95,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:55:23.063079",
+        "target_fps": 90,
+        "actual_fps": 75.76,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:55:27.066924",
+        "target_fps": 90,
+        "actual_fps": 83.33,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:55:31.068787",
+        "target_fps": 90,
+        "actual_fps": 70.42,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:55:35.071384",
+        "target_fps": 90,
+        "actual_fps": 75.76,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:55:39.082245",
+        "target_fps": 90,
+        "actual_fps": 79.37,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:55:43.089104",
+        "target_fps": 90,
+        "actual_fps": 72.99,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:55:47.096446",
+        "target_fps": 90,
+        "actual_fps": 74.63,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:55:51.105101",
+        "target_fps": 90,
+        "actual_fps": 80.65,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:55:55.108070",
+        "target_fps": 90,
+        "actual_fps": 74.07,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:55:59.119611",
+        "target_fps": 90,
+        "actual_fps": 74.07,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:56:03.127202",
+        "target_fps": 90,
+        "actual_fps": 78.74,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:56:07.129021",
+        "target_fps": 90,
+        "actual_fps": 67.57,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:56:11.142498",
+        "target_fps": 90,
+        "actual_fps": 69.93,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:56:15.149754",
+        "target_fps": 90,
+        "actual_fps": 79.37,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:56:19.156084",
+        "target_fps": 90,
+        "actual_fps": 64.52,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:56:23.169188",
+        "target_fps": 90,
+        "actual_fps": 62.11,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:56:58.976743",
+        "target_fps": 165,
+        "actual_fps": 74.63,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:57:02.983422",
+        "target_fps": 165,
+        "actual_fps": 83.33,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:57:06.986792",
+        "target_fps": 165,
+        "actual_fps": 74.07,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:57:10.991984",
+        "target_fps": 165,
+        "actual_fps": 75.76,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:57:15.001264",
+        "target_fps": 165,
+        "actual_fps": 75.19,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:57:19.011247",
+        "target_fps": 165,
+        "actual_fps": 83.33,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:57:23.021325",
+        "target_fps": 165,
+        "actual_fps": 75.19,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:57:27.026177",
+        "target_fps": 165,
+        "actual_fps": 77.52,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:57:31.033533",
+        "target_fps": 165,
+        "actual_fps": 77.52,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:57:35.035216",
+        "target_fps": 165,
+        "actual_fps": 73.53,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:57:39.046549",
+        "target_fps": 165,
+        "actual_fps": 70.92,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:57:43.055488",
+        "target_fps": 165,
+        "actual_fps": 71.43,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:57:47.060427",
+        "target_fps": 165,
+        "actual_fps": 75.76,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:57:51.062296",
+        "target_fps": 165,
+        "actual_fps": 77.52,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:57:55.064037",
+        "target_fps": 165,
+        "actual_fps": 76.34,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:57:59.068666",
+        "target_fps": 165,
+        "actual_fps": 74.63,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:58:21.429334",
+        "target_fps": 240,
+        "actual_fps": 78.74,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:58:25.431000",
+        "target_fps": 240,
+        "actual_fps": 79.37,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:58:29.431107",
+        "target_fps": 240,
+        "actual_fps": 74.63,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:58:33.431283",
+        "target_fps": 240,
+        "actual_fps": 80.0,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:58:37.441688",
+        "target_fps": 240,
+        "actual_fps": 81.97,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:58:41.451175",
+        "target_fps": 240,
+        "actual_fps": 78.74,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:58:45.451244",
+        "target_fps": 240,
+        "actual_fps": 69.93,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:58:49.452624",
+        "target_fps": 240,
+        "actual_fps": 74.63,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:58:53.465225",
+        "target_fps": 240,
+        "actual_fps": 74.63,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:58:57.479162",
+        "target_fps": 240,
+        "actual_fps": 67.57,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:59:01.479221",
+        "target_fps": 240,
+        "actual_fps": 75.19,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:59:05.482247",
+        "target_fps": 240,
+        "actual_fps": 70.92,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:59:09.492915",
+        "target_fps": 240,
+        "actual_fps": 80.0,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:59:13.506023",
+        "target_fps": 240,
+        "actual_fps": 68.03,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:59:17.516001",
+        "target_fps": 240,
+        "actual_fps": 74.63,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:59:21.520088",
+        "target_fps": 240,
+        "actual_fps": 70.42,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:59:25.523820",
+        "target_fps": 240,
+        "actual_fps": 66.67,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:59:29.528281",
+        "target_fps": 240,
+        "actual_fps": 75.19,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:59:33.532035",
+        "target_fps": 240,
+        "actual_fps": 70.92,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:59:37.544717",
+        "target_fps": 240,
+        "actual_fps": 74.63,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:59:41.552688",
+        "target_fps": 240,
+        "actual_fps": 74.63,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:59:45.561156",
+        "target_fps": 240,
+        "actual_fps": 82.64,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:59:49.569785",
+        "target_fps": 240,
+        "actual_fps": 80.0,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:59:53.574680",
+        "target_fps": 240,
+        "actual_fps": 72.99,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T15:59:57.582548",
+        "target_fps": 240,
+        "actual_fps": 68.97,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T16:00:01.582964",
+        "target_fps": 240,
+        "actual_fps": 71.43,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T16:00:05.583058",
+        "target_fps": 240,
+        "actual_fps": 73.53,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T16:00:09.594278",
+        "target_fps": 240,
+        "actual_fps": 75.76,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T16:00:13.603117",
+        "target_fps": 240,
+        "actual_fps": 77.52,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T16:00:17.612811",
+        "target_fps": 240,
+        "actual_fps": 77.52,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T16:00:21.627353",
+        "target_fps": 240,
+        "actual_fps": 81.97,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T16:00:25.627844",
+        "target_fps": 240,
+        "actual_fps": 80.0,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T16:00:29.629431",
+        "target_fps": 240,
+        "actual_fps": 74.63,
+        "resolution": "3840x2160",
+        "particles": 42400
+    },
+    {
+        "timestamp": "2026-01-18T16:00:33.642038",
+        "target_fps": 240,
+        "actual_fps": 65.36,
+        "resolution": "3840x2160",
+        "particles": 42400
+    }
+]
