@@ -373,7 +373,7 @@ drop a mail for contacting on my [email](mailto:amanbanik2023@outlook.com)
 
 ## 📜 License
 
-This project is open source. Feel free to use, modify, and distribute as needed. [MIT LICENSE](/LICENSE)
+This project is open source. Feel free to use, modify, and distribute as needed. [MIT LICENSE](LICENSE)
 
 ## 🙏 Acknowledgments
 
@@ -392,6 +392,7 @@ This project is open source. Feel free to use, modify, and distribute as needed.
 *"We are not meant to save the world. We are meant to leave it."* - Cooper, Interstellar
 
 **Experience the majesty of a black hole with intelligent display adaptation ~ now in its UNLEASHED form** 🚀✨💥
+
 
 
 
