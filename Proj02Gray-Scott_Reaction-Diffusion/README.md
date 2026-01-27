@@ -16,7 +16,7 @@ This project is a high-performance implementation of the **Gray-Scott Reaction-D
 
 It simulates the interaction of two chemical species ($U$ and $V$) which diffuse, react, and decay to create complex, life-like patterns such as coral reefs, cell division (mitosis), and Turing stripes.
 
-Explore the prior Research here: [White Paper](./WhitePaper.md)
+Explore the prior Research here: [White Paper](Writeup.md)
 ## 🚀 Key Features
 * **Beast Mode Performance:** Runs at **1920x1080 (Full HD)** at 60+ FPS.
 * **Silicon Meltdown Throughput:** Churns through an estimated **3.7 BILLION state calculations per second** (1920x1080 px × 30 steps × 60 FPS).
@@ -125,3 +125,4 @@ License: [MIT](LICENSE)
 
 
 ### ***Wishing You Safe Execution ~ keep yr Fire extinguisher refilled and nearby***🙇‍♂️
+
