@@ -18,7 +18,7 @@ From simulating relativistic astrophysics to training neural networks from scrat
 
 ---
 
-## 🌌 Flagship Project: Gargantua (Hyper-Accreted)
+## 🌌 Flagship Project 1: Gargantua (Hyper-Accreted)
 
 **Current Status:** *Live & Optimized*
 
@@ -32,6 +32,23 @@ A 4K-capable, CUDA-accelerated simulation of a Schwarzschild black hole. It leve
 
 ---
 
+## 🧪 Flagship Project 2: Gray-Scott (Beast Mode)
+
+**Current Status:** *Live & Vivid*
+
+A massive-scale biological morphogenesis simulation that solves Partial Differential Equations (PDEs) for over **2 million pixels** simultaneously. This engine simulates the emergence of complex life-like patterns (mitosis, coral, stripes) from simple chemical rules.
+
+* **Tech Stack:** Python, Numba, Pygame (Hardware Surface)
+* **Throughput:** ~3.7 BILLION state calculations per second.
+* **Key Feature:** **Virtual GPU Camera** & **Multi-Channel Color Diffusion**.
+* **Iterations:**
+    * **V1:** Core Engine (Pure Math).
+    * **V2:** Vivid Edition (RGB Diffusion).
+    * **V3:** Alpha Edition (Variable Intensity & Thickness Control).
+
+[📂 **Explore the Code**](./Proj02Gray-Scott_Reaction-Diffusion)
+
+---
 ## 🔮 The Roadmap: Future Accelerations
 
 This repository will grow into a library of parallel computing experiments. Upcoming modules will focus on:
