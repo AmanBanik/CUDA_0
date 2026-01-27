@@ -1,0 +1,14 @@
+=== GRAY-SCOTT VIVID CONTROLS ===
+
+MOUSE:
+[ Left Click ]        : Paint (Injects V + Current Color)
+[ Right Click + Drag ]: Pan Camera
+[ Scroll Wheel ]      : Zoom In/Out
+
+KEYBOARD:
+[ T ]                 : Cycle Brush Colors (Cyan -> Red -> Green -> Purple...)
+[ [ ] (Left Bracket)  : Decrease Intensity (Alpha -10%)
+[ ] ] (Right Bracket) : Increase Intensity (Alpha +10%)
+[ R ]                 : Reset Simulation
+[ S ]                 : Save Snapshot
+[ ESC ]               : Quit

@@ -1,0 +1,36 @@
+================================================================
+            GRAY-SCOTT BEAST MODE - CONTROL REFERENCE
+================================================================
+
+--- MOUSE CONTROLS ---
+
+[ SCROLL WHEEL ]       : ZOOM IN / OUT
+                         - Zooms into the simulation grid centered on the screen.
+                         - Range: 0.1x (Wide view) to 50.0x (Microscopic view).
+
+[ RIGHT CLICK + DRAG ] : PAN CAMERA
+                         - Move the view around the infinite canvas.
+                         - Works seamlessly while zoomed in.
+
+[ LEFT CLICK ]         : PAINT / INJECT
+                         - Injects Chemical V into the simulation at the cursor.
+                         - Use this to disrupt stable patterns, cut through "coral,"
+                           or create new growth centers.
+                         - The brush size scales dynamically with zoom.
+
+
+--- KEYBOARD SHORTCUTS ---
+
+[ R ]                  : RESET SIMULATION
+                         - Wipes the grid and generates a new randomized "noise seed"
+                           in the center. Use this if the pattern dies out or
+                           stabilizes into a solid color.
+
+[ S ]                  : SAVE SNAPSHOT
+                         - Instantly saves the current view (including zoom/pan)
+                           as a high-resolution PNG in the 'snapshots/' folder.
+
+[ ESC ]                : QUIT
+                         - Closes the window and exits the program safely.
+
+================================================================
